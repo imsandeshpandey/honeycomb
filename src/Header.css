@@ -4,8 +4,9 @@
   align-items: center;
   /* border-bottom: 1px solid #eee; */
   justify-content: center;
-  position: sticky;
+  position:fixed;
   top: 0;
+  width:100%;
   background: white;
   z-index: 999;
 }
