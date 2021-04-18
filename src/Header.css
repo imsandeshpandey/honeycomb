@@ -1,0 +1,32 @@
+.header {
+  height: 64px;
+  display: flex;
+  align-items: center;
+  /* border-bottom: 1px solid #eee; */
+  justify-content: center;
+  position: sticky;
+  top: 0;
+  background: white;
+  z-index: 999;
+}
+
+.header-logo-container {
+  width: 85%;
+  display: flex;
+}
+
+.header-logo {
+  height: 33px;
+  margin-top: 5px;
+  object-fit: contain;
+}
+
+@media only screen and (max-width: 768px) {
+  .header-logo {
+    margin: auto;
+  }
+}
+
+.headerStyle {
+  border: 1px solid #eee;
+}

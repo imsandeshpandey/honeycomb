@@ -1,0 +1,63 @@
+.community-card {
+  max-width: 238px;
+  border-radius: 12px;
+  display: flex;
+  border: 1px solid #eee;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow: hidden;
+  box-shadow: 0 0 20px -5px #00000030;
+  margin: 30px 20px;
+}
+
+.community-card-cover {
+  height: 200px;
+  background-size: cover;
+  display: flex;
+  align-items: flex-end;
+  background-repeat: no-repeat;
+}
+
+.community-card-meta {
+  padding: 5px 15px;
+}
+
+.community-card-links {
+  margin-top: 10px;
+  padding: 0 15px 10px 15px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.community-card-link {
+  font-size: 18px;
+  color: #555 !important;
+}
+
+.community-card-link,
+.community-card-link:hover {
+  text-decoration: none;
+  color: #444;
+}
+
+.community-card-meta-name {
+  font-weight: 600;
+  color: #404040;
+  font-size: 20px;
+  margin-bottom: 3px;
+}
+
+.community-card-meta-description {
+  color: #888;
+  font-weight: 500;
+  font-size: 12px;
+  margin-top: 10px;
+}
+
+@media only screen and (max-width: 694px) {
+  .community-card {
+    margin-left: 8px;
+    margin-right: 8px;
+  }
+}
