@@ -12,7 +12,7 @@ function Community() {
             <hr/>
             </div>
             <div className="community-card-container">
-                {devs.map((data, index)=><CommunityCard key={index} name={data.devName} description={data.devDescription} cover={data.devCover}  />)}
+                {devs.map((data)=><CommunityCard key={data.devIndex} name={data.devName} description={data.devDescription} cover={data.devCover}  />)}
             </div>
             <div className="community-footer">
             <h3 className="community-text">

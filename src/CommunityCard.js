@@ -19,13 +19,13 @@ function CommunityCard(props) {
 
             </div>
             <div className="community-card-links">
-                <a className="community-card-link" href="#" target="blank" >
+                <a className="community-card-link" href="github.com" target="blank" >
                     <GithubOutlined/>
                 </a>
-                <a className="community-card-link" href="#" target="blank" >
+                <a className="community-card-link" href="twitter.com" target="blank" >
                     <TwitterOutlined/>
                 </a>
-                <a className="community-card-link" href="#" target="blank" >
+                <a className="community-card-link" href="linkedin.com" target="blank" >
                     <LinkedinFilled/>
                 </a>
             </div>
