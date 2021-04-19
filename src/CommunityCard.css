@@ -5,17 +5,16 @@
   border: 1px solid #eee;
   background: #fff;
   flex-direction: column;
-  position: relative;
+  overflow: hidden;
   justify-content: space-between;
   box-shadow: 0 0 20px -5px #00000020;
-  z-index: -1;
 }
 
 .community-card-images {
   position: relative;
 }
 .community-card-images-cover {
-  width: 100%;
+  width: calc(100% + 1px);
   height: 270px;
   object-position: top;
   border-radius: 12px 12px 0 0;
@@ -43,6 +42,7 @@
 .community-card-link {
   font-size: 18px;
   color: #555 !important;
+  cursor: pointer !important;
 }
 
 .community-card-link,
@@ -67,7 +67,10 @@
 
 @media only screen and (max-width: 694px) {
   .community-card {
-    height: 400px;
+    /* height: 400px; */
     width: 300px;
+  }
+  .community-card-images-cover {
+    height: 240px;
   }
 }

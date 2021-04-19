@@ -17,4 +17,5 @@
 
 .footer > img {
   width: 130px;
+  cursor: pointer;
 }

@@ -37,21 +37,21 @@ const devs =[
     {
         devIndex:2,
         devName :'Sandesh Pandey',
-        devDescription:'Programming aauxa halka fulka tei ho',
+        devDescription:'Junior React Developer @Freakoids. Programmer. Gamer ',
         devCover:'https://scontent.fbhr1-1.fna.fbcdn.net/v/t1.6435-9/45581793_2203984279874968_4292840161907048448_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=RcG_wmzsvHQAX-FOhVe&_nc_oc=AQm2UMPEu-FuzYIDqjPO6yyvyOURXCre6F3HqzuDbo0zPQgPJjpbtquE28S1d55060k&_nc_ht=scontent.fbhr1-1.fna&oh=03870f06d4710fc6a02db427e5de67c5&oe=60A06B9A'
 
     },
     {
         devIndex:3,
         devName :'Shiva Pandey',
-        devDescription:'Ma ta khatrai ho Facebook ma senior engineer vai sakeko',
+        devDescription:'Chief Technology Officer @Xccelerate. Professional React Developer. Blogger. Extraordinaire',
         devCover:'https://miro.medium.com/fit/c/344/344/1*YrNONz0kkwqCb9D7212CiA.jpeg'
 
     },
     {
         devIndex:4,
         devName :'Rudra Singh',
-        devDescription:'Programming garxu daam chapxu galti vaye shiva xa',
+        devDescription:'Software Engineer @Xccelerate. Hustler, Geek',
         devCover:'https://scontent.fbhr1-1.fna.fbcdn.net/v/t31.18172-8/15723647_1188235994591641_4626787110233549926_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=FL5S7SilqjkAX_QNpQl&_nc_ht=scontent.fbhr1-1.fna&oh=df8838d482a5b9d617efaa74a7babf27&oe=60A179BA'
 
     },
@@ -93,21 +93,21 @@ const devs =[
     {
         devIndex:10,
         devName :'Sandesh Pandey',
-        devDescription:'Programming aauxa halka fulka tei ho',
+        devDescription:'Junior React Developer @Freakoids. Programmer. Gamer ',
         devCover:'https://scontent.fbhr1-1.fna.fbcdn.net/v/t1.6435-9/45581793_2203984279874968_4292840161907048448_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=RcG_wmzsvHQAX-FOhVe&_nc_oc=AQm2UMPEu-FuzYIDqjPO6yyvyOURXCre6F3HqzuDbo0zPQgPJjpbtquE28S1d55060k&_nc_ht=scontent.fbhr1-1.fna&oh=03870f06d4710fc6a02db427e5de67c5&oe=60A06B9A'
 
     },
     {
         devIndex:11,
         devName :'Shiva Pandey',
-        devDescription:'Ma ta khatrai ho Facebook ma senior engineer vai sakeko',
+        devDescription:'Chief Technology Officer @Xccelerate. Professional React Developer. Blogger. Extraordinaire',
         devCover:'https://miro.medium.com/fit/c/344/344/1*YrNONz0kkwqCb9D7212CiA.jpeg'
 
     },
     {
         devIndex:12,
         devName :'Rudra Singh',
-        devDescription:'Programming garxu daam chapxu galti vaye shiva xa',
+        devDescription:'Software Engineer @Xccelerate. Hustler, Geek',
         devCover:'https://scontent.fbhr1-1.fna.fbcdn.net/v/t31.18172-8/15723647_1188235994591641_4626787110233549926_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=FL5S7SilqjkAX_QNpQl&_nc_ht=scontent.fbhr1-1.fna&oh=df8838d482a5b9d617efaa74a7babf27&oe=60A179BA'
 
     },
@@ -149,21 +149,21 @@ const devs =[
     {
         devIndex:18,
         devName :'Sandesh Pandey',
-        devDescription:'Programming aauxa halka fulka tei ho',
+        devDescription:'Junior React Developer @Freakoids. Programmer. Gamer ',
         devCover:'https://scontent.fbhr1-1.fna.fbcdn.net/v/t1.6435-9/45581793_2203984279874968_4292840161907048448_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=RcG_wmzsvHQAX-FOhVe&_nc_oc=AQm2UMPEu-FuzYIDqjPO6yyvyOURXCre6F3HqzuDbo0zPQgPJjpbtquE28S1d55060k&_nc_ht=scontent.fbhr1-1.fna&oh=03870f06d4710fc6a02db427e5de67c5&oe=60A06B9A'
 
     },
     {
         devIndex:19,
         devName :'Shiva Pandey',
-        devDescription:'Ma ta khatrai ho Facebook ma senior engineer vai sakeko',
+        devDescription:'Chief Technology Officer @Xccelerate. Professional React Developer. Blogger. Extraordinaire',
         devCover:'https://miro.medium.com/fit/c/344/344/1*YrNONz0kkwqCb9D7212CiA.jpeg'
 
     },
     {
         devIndex:20,
         devName :'Rudra Singh',
-        devDescription:'Programming garxu daam chapxu galti vaye shiva xa',
+        devDescription:'Software Engineer @Xccelerate. Hustler, Geek',
         devCover:'https://scontent.fbhr1-1.fna.fbcdn.net/v/t31.18172-8/15723647_1188235994591641_4626787110233549926_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=FL5S7SilqjkAX_QNpQl&_nc_ht=scontent.fbhr1-1.fna&oh=df8838d482a5b9d617efaa74a7babf27&oe=60A179BA'
 
     },

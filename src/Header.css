@@ -2,19 +2,18 @@
   height: 64px;
   display: flex;
   align-items: center;
-  transition: 0.2s linear;
-  transition-property: box-shadow, top;
+  transition: box-shadow 0.1s linear;
   box-shadow: 0 -30px 20px -5px #00000022;
   justify-content: center;
   position: fixed;
   width: 100%;
   background: white;
+  z-index: 999;
 }
 
 .header-border {
   border-bottom: 1px solid #eee;
   box-shadow: 0 0 20px -5px #00000022;
-  top: 0 !important;
 }
 
 .header-logo-container {
@@ -26,6 +25,7 @@
   height: 33px;
   margin-top: 5px;
   object-fit: contain;
+  cursor: pointer;
 }
 
 @media only screen and (max-width: 768px) {
