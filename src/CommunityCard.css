@@ -1,6 +1,5 @@
 .community-card {
   max-width: 325px;
-  height: 390px;
   border-radius: 12px;
   display: flex;
   border: 1px solid #eee;
@@ -17,7 +16,7 @@
 }
 .community-card-images-cover {
   width: 100%;
-  height: 15rem;
+  height: 270px;
   object-position: top;
   border-radius: 12px 12px 0 0;
   object-fit: cover;
@@ -68,6 +67,7 @@
 
 @media only screen and (max-width: 694px) {
   .community-card {
-    height: 420px;
+    height: 400px;
+    width: 300px;
   }
 }
