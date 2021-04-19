@@ -83,6 +83,118 @@ const devs =[
         devCover:'https://honeycomb.sh/user/chumlung_limbu.png'
 
     },
+    {
+        devIndex:9,
+        devName :'Robus Gauli',
+        devDescription:'Principal Engineer @lftechnology. 2.718281 ^ (√-1 * 3.14) + 1 = 0',
+        devCover:'https://honeycomb.sh/user/robus_gauli.png'
+
+    },
+    {
+        devIndex:10,
+        devName :'Sandesh Pandey',
+        devDescription:'Programming aauxa halka fulka tei ho',
+        devCover:'https://scontent.fbhr1-1.fna.fbcdn.net/v/t1.6435-9/45581793_2203984279874968_4292840161907048448_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=RcG_wmzsvHQAX-FOhVe&_nc_oc=AQm2UMPEu-FuzYIDqjPO6yyvyOURXCre6F3HqzuDbo0zPQgPJjpbtquE28S1d55060k&_nc_ht=scontent.fbhr1-1.fna&oh=03870f06d4710fc6a02db427e5de67c5&oe=60A06B9A'
+
+    },
+    {
+        devIndex:11,
+        devName :'Shiva Pandey',
+        devDescription:'Ma ta khatrai ho Facebook ma senior engineer vai sakeko',
+        devCover:'https://miro.medium.com/fit/c/344/344/1*YrNONz0kkwqCb9D7212CiA.jpeg'
+
+    },
+    {
+        devIndex:12,
+        devName :'Rudra Singh',
+        devDescription:'Programming garxu daam chapxu galti vaye shiva xa',
+        devCover:'https://scontent.fbhr1-1.fna.fbcdn.net/v/t31.18172-8/15723647_1188235994591641_4626787110233549926_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=FL5S7SilqjkAX_QNpQl&_nc_ht=scontent.fbhr1-1.fna&oh=df8838d482a5b9d617efaa74a7babf27&oe=60A179BA'
+
+    },
+    {
+        devIndex:13,
+        devName :'Aviskar Kc',
+        devDescription:"Software Engineer @Careprotocol. console.log('here')",
+        devCover:'https://honeycomb.sh/user/aviskar_kc.jpg'
+
+    },
+    {
+        devIndex:14,
+        devName :'Nishla Shakya',
+        devDescription:'Developer @Zegal. Dreamer | Learner | Doer',
+        devCover:'https://honeycomb.sh/user/nishla_shakya.jpg'
+
+    },
+    {
+        devIndex:15,
+        devName :'Kabir Baidhya',
+        devDescription:'Senior Engineer @Klarna. Open Source Enthusiast · Software Engineer · Pacifist',
+        devCover:'https://honeycomb.sh/user/kabir_baidhya.png'
+
+    },
+    {
+        devIndex:16,
+        devName :'Chumlung Limbu',
+        devDescription:'Senior Software Engineer @lftechnology. Pro Googler',
+        devCover:'https://honeycomb.sh/user/chumlung_limbu.png'
+
+    },
+    {
+        devIndex:17,
+        devName :'Robus Gauli',
+        devDescription:'Principal Engineer @lftechnology. 2.718281 ^ (√-1 * 3.14) + 1 = 0',
+        devCover:'https://honeycomb.sh/user/robus_gauli.png'
+
+    },
+    {
+        devIndex:18,
+        devName :'Sandesh Pandey',
+        devDescription:'Programming aauxa halka fulka tei ho',
+        devCover:'https://scontent.fbhr1-1.fna.fbcdn.net/v/t1.6435-9/45581793_2203984279874968_4292840161907048448_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=RcG_wmzsvHQAX-FOhVe&_nc_oc=AQm2UMPEu-FuzYIDqjPO6yyvyOURXCre6F3HqzuDbo0zPQgPJjpbtquE28S1d55060k&_nc_ht=scontent.fbhr1-1.fna&oh=03870f06d4710fc6a02db427e5de67c5&oe=60A06B9A'
+
+    },
+    {
+        devIndex:19,
+        devName :'Shiva Pandey',
+        devDescription:'Ma ta khatrai ho Facebook ma senior engineer vai sakeko',
+        devCover:'https://miro.medium.com/fit/c/344/344/1*YrNONz0kkwqCb9D7212CiA.jpeg'
+
+    },
+    {
+        devIndex:20,
+        devName :'Rudra Singh',
+        devDescription:'Programming garxu daam chapxu galti vaye shiva xa',
+        devCover:'https://scontent.fbhr1-1.fna.fbcdn.net/v/t31.18172-8/15723647_1188235994591641_4626787110233549926_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=FL5S7SilqjkAX_QNpQl&_nc_ht=scontent.fbhr1-1.fna&oh=df8838d482a5b9d617efaa74a7babf27&oe=60A179BA'
+
+    },
+    {
+        devIndex:21,
+        devName :'Aviskar Kc',
+        devDescription:"Software Engineer @Careprotocol. console.log('here')",
+        devCover:'https://honeycomb.sh/user/aviskar_kc.jpg'
+
+    },
+    {
+        devIndex:22,
+        devName :'Nishla Shakya',
+        devDescription:'Developer @Zegal. Dreamer | Learner | Doer',
+        devCover:'https://honeycomb.sh/user/nishla_shakya.jpg'
+
+    },
+    {
+        devIndex:23,
+        devName :'Kabir Baidhya',
+        devDescription:'Senior Engineer @Klarna. Open Source Enthusiast · Software Engineer · Pacifist',
+        devCover:'https://honeycomb.sh/user/kabir_baidhya.png'
+
+    },
+    {
+        devIndex:24,
+        devName :'Chumlung Limbu',
+        devDescription:'Senior Software Engineer @lftechnology. Pro Googler',
+        devCover:'https://honeycomb.sh/user/chumlung_limbu.png'
+
+    },
 
 
 ]

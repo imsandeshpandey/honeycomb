@@ -1,21 +1,28 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './Header.css'
 
 function Header() {
-    // const[scroll,setScroll]=React.useState(0);
+    const[style,setStyle]=useState({});
+    const[top,setTop]=useState(true);
+    var prevScrollPos = window.pageYOffset;
 
-    // useEffect(() => {
-    //     // const scrollListener = window.addEventListener('scroll', () => {
-    //     //     console.log("Scrolling", window.pageYOffset);
-    //     //     setScroll(window.pageYOffset);
-    //     // })
-
-    //     // // return () => {}
-    // }, [])
-    
-    // console.log(scroll);
+    window.onscroll = function() {
+      var currentScrollPos = window.pageYOffset;
+    //   var difference = prevScrollPos-currentScrollPos;
+      if (prevScrollPos > currentScrollPos) {
+    setStyle({top:"0"})
+      } else {
+        setStyle({top:"-65px"})
+      }
+      prevScrollPos = currentScrollPos;
+      currentScrollPos>0 ? setTop(false):setTop(true);
+    }
+    console.log(top);
     return (
-        <div className='header'>
+       
+
+        <div className={`header ${!top && 'header-border'}`} style={style} >
+ 
             <div className="header-logo-container">
             <img src="https://honeycomb.sh/logo.svg" alt="" className="header-logo"/> 
             </div>

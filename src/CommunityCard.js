@@ -6,8 +6,9 @@ function CommunityCard(props) {
     
     return (
         <div className="community-card">
-            <div style={{backgroundImage:`url('${props.cover}')`}} className="community-card-cover">
-                <img src="https://honeycomb.sh/images/wave.svg" alt="" className="community-card-cover-wave"/>
+            <div className="community-card-images">
+                <img src={props.cover} alt="" className="community-card-images-cover"/>
+                <img src="https://honeycomb.sh/images/wave.svg" alt="" className="community-card-images-wave"/>
             </div>
             <div className="community-card-meta">
                 <h3 className="community-card-meta-name">

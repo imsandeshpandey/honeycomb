@@ -1,4 +1,4 @@
-
+import Footer from './Footer';
 import './App.css';
 import Header from './Header';
 import Page from './Page';
@@ -8,6 +8,7 @@ function App() {
     <div className="App">
         <Header/>
         <Page/>
+        <Footer/>
     </div>
   );
 }
