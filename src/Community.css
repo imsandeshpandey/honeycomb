@@ -35,7 +35,7 @@
   margin: 50px 0;
   grid-gap: 50px 40px;
   display: grid;
-  position: relative;
+  place-items: center;
 
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
